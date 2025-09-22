@@ -23,9 +23,9 @@ To ensure smooth setup and execution, follow the steps below.
   
 ### 3. Set Up a Virtual Environment
 
--**Purpose:** Isolates project dependencies to prevent conflicts with other projects.
+- **Purpose:** Isolates project dependencies to prevent conflicts with other projects.
 
--**Action:**
+- **Action:**
 ```bash
 python -m venv venv
 source venv/bin/activate   # On macOS/Linux
