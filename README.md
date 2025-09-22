@@ -13,7 +13,7 @@ To ensure smooth setup and execution, follow the steps below.
 - **Requirement:** Ensure **Python 3.7 or later** is installed.  
 - [Download Python](https://www.python.org/downloads/)
 
-### 1. Clone the Repository
+### 2. Clone the Repository
 - **Purpose:** Download the project files from GitHub.  
 - **Action:**  
   ```bash
@@ -30,4 +30,9 @@ To ensure smooth setup and execution, follow the steps below.
 python -m venv venv
 source venv/bin/activate   # On macOS/Linux
 venv\Scripts\activate      # On Windows
+```
+### 4. Install Libraries and Modules
+```bash
+pip install -r requirements.txt
+
 
